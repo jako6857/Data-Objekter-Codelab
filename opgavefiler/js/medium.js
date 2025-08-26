@@ -25,6 +25,10 @@ console.groupEnd();
 
 
 /*opgave 3*/
+
+data.items[3] ="changed";
+console.log(data);
+
 console.group("opgave 3");
 
 console.groupEnd();
