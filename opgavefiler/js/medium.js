@@ -14,7 +14,7 @@ console.groupEnd();
 
 /*opgave 2*/
 
-delete data.jobTitle;
+delete data.items[2];
 console.log(data);
 
 console.group("opgave 2");
